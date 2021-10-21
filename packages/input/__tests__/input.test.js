@@ -1,3 +1,7 @@
+/**
+ * @jest-environment jsdom
+ */
+
 import input from '../src/input.vue'
 import { mount } from '@vue/test-utils'
 
