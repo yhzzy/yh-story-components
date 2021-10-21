@@ -1,6 +1,6 @@
 {
   "name": "yh-link",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "lg-link component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
